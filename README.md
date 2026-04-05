@@ -5,18 +5,18 @@ Welcome to my repository for lab assignments and competitive programming at **II
 * **Queue using Stacks**: Implementation of a FIFO queue using two LIFO stacks (`stackToqueue.cpp`).
 * **Sorting Algorithms**: Bubble, Merge, Quick, and Heap Sort implementations.
 * **Linked Lists**: Singly and Doubly linked list operations.
-* and many more
+* **Algorithm Patterns**: Recursion, Backtracking, and Dynamic Programming.
 
 ## 🛠️ Tech Stack
-* **Language:** C++
-* **Environment:** Arch Linux / Windows (VS Code)
-* **Compiler:** GCC / G++
+* **Language:** `C++` / `C`
+* **Environment:** `Arch Linux` / `Windows`
+* **Workflow:** `VS Code` + `Git` / `GitHub Desktop`
 
-## 📝 About Me
-I am a 19-year-old developer from Rajasthan, currently pursuing my B.Tech (Class of 2029). When I'm not debugging C++ memory leaks, I'm usually:
-* 🖋️ Writing Hindi poetry.
-* 🌿 Exploring nature and birdwatching.
-* 📺 Watching Turkish dramas or dark psychological anime.
+## 🖋️ Beyond the Console
+When I'm not optimizing time complexity or debugging memory leaks, I find balance in:
+* **Hindi Sahitya:** Exploring the depth of words and creative rhythm through poetry.
+* **Nature & Ornithology:** Finding symmetry in the natural world and birdwatching.
+* **Cinematic Stories:** Engaging with the complex narratives of Turkish dramas and psychological anime.
 
 ---
-*"Code is logic, but logic is an art."*
+> *"Writing code is like writing poetry; both require the perfect arrangement of logic and emotion."*
