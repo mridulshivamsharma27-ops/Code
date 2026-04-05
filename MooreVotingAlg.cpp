@@ -2,25 +2,18 @@
 #include<vector>
 #include<algorithm>
 using namespace std;
-void vectorx(vector <int> &vec){
-        int x;
-    cout<<"Enter The Elements: "<<endl;
-    for (;;)
-    {
-        cin>>x ;
-        if (x<0) break;
-        vec.push_back(x);
-    }
-    sort(vec.begin(), vec.end());
-    cout << "Elements: ";
-    for (int i = 0; i < vec.size(); i++) {
-        cout << vec[i] << " ";
-    }
-    return;
-}
 int main() {
-    vector <int> vec;
-    vectorx(vec);
+    vector <int> vec={1,2,2,1,1};
+    int n=vec.size();
+    int frequency=0,Ans=0;
+    for (int i = 0; i <n; i++)
+    {
+        if(frequency==0) {Ans=vec[i];}
 
+        if(Ans==vec[i]) frequency++;
+        else  frequency--;
+    }
+    
+    cout<<Ans;
 return 0;
 }
