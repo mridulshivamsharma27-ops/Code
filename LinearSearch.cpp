@@ -21,5 +21,5 @@ int main() {
     }
     else cout<<"The Target("<<x<<") is not present."<<endl;
     
-return 0;
+    return 0;
 }
